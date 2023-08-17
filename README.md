@@ -1,5 +1,7 @@
 ## Noir FNV Hashing
 
+[![test](https://github.com/kevin-fruitful/noir-toy-hashing-assignment/actions/workflows/test.yml/badge.svg)](https://github.com/kevin-fruitful/noir-toy-hashing-assignment/actions/workflows/test.yml)
+
 The goal of this assignment is to learn the basics of Noir by implementing FNV hashing.
 
 FNV (Fowler-Noll-Vo) hashing is a family of non-cryptographic hash functions that are designed to be fast and efficient while producing a relatively good distribution of hash values.
